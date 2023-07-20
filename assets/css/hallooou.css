@@ -100,7 +100,7 @@ Version: 1.0
   right: 100%;
   width: 100%;
   height: 10px;
-  background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+  background:#84c9f7; /* Primary color, can be changed via colors.css */
   pointer-events: none;
 }
 
@@ -131,7 +131,7 @@ h5,
 h6 {
     margin: 0 0 20px 0;
     text-transform: none;
-    color: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    color: rgb(165, 211, 248); /* Primary color, can be changed via colors.css */
     font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 600;
     letter-spacing: 1px;
@@ -155,7 +155,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    color: #84c9f7; /* Primary color, can be changed via colors.css */
 }
 
 .light {
@@ -200,7 +200,7 @@ a:focus {
 
 .highlight{
     font-weight: 700;
-    color: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    color: #84c9f7; /* Primary color, can be changed via colors.css */
 }
 
 .list-ord{
@@ -259,8 +259,8 @@ blockquote {
     font-size: 22px;
     position: relative; 
     padding-left: 90px;
-    color: rgba(254,82,76, 1);
-    border-color: rgba(254,82,76, 1);
+    color: #84c9f7;
+    border-color: #84c9f7;
 }
  
 blockquote:before {
@@ -298,7 +298,7 @@ blockquote span{
 }
 
 .navbar-custom.top-nav-collapse{
-    background: rgba(254,82,76, .9); /* Primary color, can be changed via colors.css */
+    background: rgba(94, 209, 247, 0.9); /* Primary color, can be changed via colors.css */
 }
 
 .navbar-custom .navbar-brand {
@@ -330,7 +330,7 @@ blockquote span{
 }
 
 .navbar-custom a {
-    color: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    color: rgb(88, 231, 247); /* Primary color, can be changed via colors.css */
 }
 
 .navbar-custom .nav li a {
@@ -424,7 +424,7 @@ blockquote span{
 .overlay {
     position: fixed;
     display: block; 
-    background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    background: rgb(113, 233, 237); /* Primary color, can be changed via colors.css */
     top: 0;
     border: 0;
     left: 0;
@@ -572,7 +572,7 @@ blockquote span{
 
 .carousel-control.left:hover,
 .carousel-control.right:hover{
-    background: rgba(254,82,76, 0.9); /* Primary color, can be changed via colors.css */
+    background: rgba(55, 232, 251, 0.9); /* Primary color, can be changed via colors.css */
 }
 
 #parallax-slide{
@@ -711,7 +711,7 @@ video#html5-video {
     z-index: -100;
     -webkit-transform: translateX(-50%) translateY(-50%);
             transform: translateX(-50%) translateY(-50%);
-    background: url(../images/typing-on-mac.jpg) no-repeat bottom center scroll;
+    background: url(../images/dogs-playing-poker.jpeg) no-repeat bottom center scroll;
     -webkit-background-size: cover;
        -moz-background-size: cover;
             background-size: cover;
@@ -792,7 +792,7 @@ video {
 
 
 .services-item i{
-    color: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    color: #84c9f7; /* Primary color, can be changed via colors.css */
     padding: 0;
     margin: 0 0 10px 0;
      -webkit-transition: all .2s ease-in-out;
@@ -801,7 +801,7 @@ video {
 }
 
 .services-item:hover{
-    background:rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    background:#84c9f7; /* Primary color, can be changed via colors.css */
      -webkit-transition: background .2s ease-in-out;
         -moz-transition: background .2s ease-in-out;
              transition: background .2s ease-in-out;
@@ -855,7 +855,7 @@ video {
 .products{
     width: 100%;
     background: #222;
-    background: url(../images/process_bg.jpg) 50% 0 no-repeat scroll;
+    background: url(../images/dogjumping.webp) 50% 0 no-repeat scroll;
     -webkit-background-size: cover;
        -moz-background-size: cover;
             background-size: cover;
@@ -872,7 +872,7 @@ video {
     margin: 0 0 22px 0;
     min-width: 80px;
     color: #fff;
-    background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    background: #84c9f7; /* Primary color, can be changed via colors.css */
     text-align: center;
     border-radius: 50px;
     width: 80px;
@@ -963,7 +963,7 @@ video {
 .team-member figure:hover figcaption{
     visibility: visible;
     color: #fff;
-    background: rgba(230,78,62,0.9); /* Primary color, can be changed via colors.css */
+    background: #84c9f7; /* Primary color, can be changed via colors.css */
     height: 100%;
     -webkit-transition: all 0.3s ease-in-out;
        -moz-transition: all 0.3s ease-in-out;
@@ -1005,7 +1005,7 @@ video {
 
 #portfolio{
     background: #222;
-    background: url(../images/portfolio_bg.jpg) 50% 0 no-repeat scroll;
+    background: url(../images/dogsidebside.jpeg) 50% 0 no-repeat scroll;
     -webkit-background-size: cover;
        -moz-background-size: cover;
             background-size: cover;
@@ -1054,7 +1054,7 @@ ul.project-meta li a{
     color: #fff;
 }
 ul.project-meta li a:hover{
-    color: #f76758;
+    color: #84c9f7;
 }
 
 .full-project {
@@ -1066,10 +1066,10 @@ ul.project-meta li a:hover{
     line-height: 18px;
     font-size: 18px;
     text-transform: capitalize;
-    background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    background: #84c9f7; /* Primary color, can be changed via colors.css */
 }
 .full-project:hover {
-    background: rgba(223,81,76, 1); /* Hover color, can be changed via colors.css */
+    background: #84c9f7; /* Hover color, can be changed via colors.css */
 }
 .full-project a {
     padding: 0px;
@@ -1176,7 +1176,7 @@ ul.project-meta{
 
 .project-navigation a:hover {
     width: 60px;
-    background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    background: rgb(244, 231, 231); /* Primary color, can be changed via colors.css */
 }
 
 .project-container:hover .project-navigation .btn-prev,
@@ -1321,7 +1321,7 @@ ul.project-meta{
 }
 
 .form-alerts .alert.alert-danger{
-    background: #fe8080;
+    background: #84c9f7;
 }
 
 
@@ -1344,7 +1344,7 @@ ul.project-meta{
   width: 32px;
   cursor: pointer;
   margin-left: 10px;
-  background-color: rgba(254,82,76, 0.9); /* Primary color, can be changed via colors.css */
+  background-color: #84c9f7; /* Primary color, can be changed via colors.css */
   background-repeat: no-repeat;
   background-size: 32px 64px;
   background-image: url("../images/cd-icon-controller.svg");
@@ -1369,7 +1369,7 @@ ul.project-meta{
 
 .counter-section {
     text-align: center;
-    background: url(../images/counter_bg.jpg) 50% 0 no-repeat scroll;
+    background: url(../images/dogs-playing-poker.jpeg) 50% 0 no-repeat scroll;
     -webkit-background-size: cover;
        -moz-background-size: cover;
             background-size: cover;
@@ -1416,7 +1416,7 @@ span.count-description {
     width: 100%;
     margin:0;
     padding: 50px 0;
-    background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    background: rgb(236, 219, 219); /* Primary color, can be changed via colors.css */
     -webkit-box-shadow: 0 0 10px 2px rgba(0,0,0,.1);
        -moz-box-shadow: 0 0 10px 2px rgba(0,0,0,.1);
             box-shadow: 0 0 10px 2px rgba(0,0,0,.1);
@@ -1458,7 +1458,7 @@ span.count-description {
     text-align: center;
     line-height: 1.5;
     background-color: #fff;
-    border: 2px solid rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    border: 2px solid #84c9f7; /* Primary color, can be changed via colors.css */
     -webkit-border-radius: 10px;
        -moz-border-radius: 10px;
             border-radius: 10px;
@@ -1472,7 +1472,7 @@ span.count-description {
     right: 80px;
     top: 100%;
     border: 15px solid;
-    border-color: rgba(254,82,76, 1) transparent transparent rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    border-color:#84c9f7 transparent transparent #84c9f7; /* Primary color, can be changed via colors.css */
 }
 
 .testimonials p.speech:after{
@@ -1491,7 +1491,7 @@ span.count-description {
 }
 
 .client-info h4{
-    color: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    color: #84c9f7; /* Primary color, can be changed via colors.css */
     margin: 10px 0 0 0;
     padding: 0;
 }
@@ -1585,8 +1585,8 @@ footer .social a{
     display: inline-block;
     padding: 5px 15px;
     color: #fff;
-    border: 1px solid rgba(254,82,76, 1);
-    background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    border: 1px solid #84c9f7;
+    background: #84c9f7; /* Primary color, can be changed via colors.css */
     font-size: 30px;
 }
 
@@ -1594,7 +1594,7 @@ footer .social a{
     border: 1px solid #fff; /* Hover border color, can be changed via colors.css */
     outline: 0;
     color: #fff;
-    background: #df514c; /* Hover color, can be changed via colors.css */
+    background: #84c9f7; /* Hover color, can be changed via colors.css */
 }
 
 
@@ -1673,8 +1673,8 @@ footer .social a{
 
 .btn-default {
     color: #fff;
-    border: 1px solid rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
-    background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    border: 1px solid #84c9f7; /* Primary color, can be changed via colors.css */
+    background: #84c9f7; /* Primary color, can be changed via colors.css */
 }
 
 
@@ -1685,7 +1685,7 @@ footer .social a{
     border: 1px solid #fff; /* Hover border color, can be changed via colors.css */
     outline: 0;
     color: #fff;
-    background: #df514c; /* Hover color, can be changed via colors.css */
+    background: #84c9f7; /* Hover color, can be changed via colors.css */
 }
 
 
@@ -1706,7 +1706,7 @@ footer .social a{
 .btn-overcolor{
     border: 1px solid rgba(255, 255, 255, 1);
     color: #fff;
-    background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    background: #84c9f7; /* Primary color, can be changed via colors.css */
 }
 
 
@@ -1762,19 +1762,21 @@ footer .social a{
         line-height: 1.6;
     }
 
-    .navbar-custom {
-        padding: 20px 0;
+    /*.navbar-custom {
+        padding: 20px;
         border-bottom: 0;
+        border-top: 0px;
+        justify-content: flex-start;
         letter-spacing: 1px;
         background: 0 0;
         -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
            -moz-transition: background .5s ease-in-out, padding .5s ease-in-out;
                 transition: background .5s ease-in-out, padding .5s ease-in-out;
     }
-    .navbar-custom.top-nav-collapse {
-        padding: 10px 0;
-        background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
-        -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
+    /*.navbar-custom.top-nav-collapse {
+        padding: 0px ;
+        background: transparent; /* Primary color, can be changed via colors.css */
+       /* -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
            -moz-transition: background .5s ease-in-out, padding .5s ease-in-out;
                 transition: background .5s ease-in-out, padding .5s ease-in-out;
         -webkit-box-shadow: 0 0 10px 2px rgba(0,0,0,.1);
@@ -1835,12 +1837,12 @@ footer .social a{
     }
 
      .navbar-custom a{
-        color: rgba(254,82,76, 1);
+        color: #84c9f7;
         color: #fff;
     }
 
     .video-section{
-        background: url(../images/youtube-video-cover.jpg) no-repeat bottom center scroll;
+        background: url(../https://youtube.com/shorts/xh6ixDORDdY?feature=share) no-repeat bottom center scroll;
     }
 
 
@@ -1879,7 +1881,7 @@ footer .social a{
         background: url(../images/youtube-video-cover.jpg) #000 no-repeat center center fixed;
     }*/
     .html5-video-container{
-        background: url(../images/typing-on-mac.jpg) no-repeat bottom center scroll;
+        background: url(../images/dozendogs.jpeg) no-repeat bottom center scroll;
     -webkit-background-size: cover;
        -moz-background-size: cover;
             background-size: cover;
@@ -1935,14 +1937,14 @@ footer .social a{
     text-shadow: none;
     background: #fcfcfc;
     color: #fff;
-    background: rgba(254,82,76, .8);
+    background: #84c9f7;
 }
 
 ::selection {
     text-shadow: none;
     background: #fcfcfc;
     color: #fff;
-    background: rgba(254,82,76, .8);
+    background: #84c9f7;
 }
 
 img::selection {
@@ -1954,7 +1956,7 @@ img::-moz-selection {
 }
 
 body {
-    webkit-tap-highlight-color: rgba(254,82,76, .8);
+    webkit-tap-highlight-color:#84c9f7;
 }
 
 
@@ -1963,6 +1965,6 @@ body {
 /* ---------------------------------------------- */
 
 .debug{
-    border:1px solid #f00;
+    border:1px solid#84c9f7;
 }
 
