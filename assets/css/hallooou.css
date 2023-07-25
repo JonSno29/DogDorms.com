@@ -1005,7 +1005,7 @@ video {
 
 #portfolio{
     background: #222;
-    background-image: url(./images/dogsidebside.jpeg) 50% 0 no-repeat scroll;
+    background-image: url('../images/dogsidebside.jpeg') 50% 0 no-repeat scroll;
     -webkit-background-size: cover;
        -moz-background-size: cover;
             background-size: cover;
