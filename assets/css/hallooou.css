@@ -576,7 +576,7 @@ blockquote span{
 }
 
 #parallax-slide{
-    background: url(./images/dogpool.gif) 50% 0 no-repeat;
+    background-image: url(./assets/images/dogpool.gif) 50% 0 no-repeat;
     -webkit-background-size: cover;
        -moz-background-size: cover;
             background-size: cover;
@@ -659,7 +659,7 @@ blockquote span{
     position: absolute;
     width: 100%;
     height: 100%;
-    background: url(./images/youtube-video-cover.jpg) no-repeat bottom center scroll;
+    background-image: url(./assets/images/youtube-video-cover.jpg) no-repeat bottom center scroll;
     -webkit-background-size: cover;
        -moz-background-size: cover;
             background-size: cover;
@@ -711,7 +711,7 @@ video#html5-video {
     z-index: -100;
     -webkit-transform: translateX(-50%) translateY(-50%);
             transform: translateX(-50%) translateY(-50%);
-    background: url(./images/dogs-playing-poker.jpeg) no-repeat bottom center scroll;
+    background-image: url(./images/dogs-playing-poker.jpeg) no-repeat bottom center scroll;
     -webkit-background-size: cover;
        -moz-background-size: cover;
             background-size: cover;
@@ -855,7 +855,7 @@ video {
 .products{
     width: 100%;
     background: #222;
-    background: url(./images/dogjumping.webp) 50% 0 no-repeat scroll;
+    background-image: url(./images/dogjumping.webp) 50% 0 no-repeat scroll;
     -webkit-background-size: cover;
        -moz-background-size: cover;
             background-size: cover;
@@ -1005,7 +1005,7 @@ video {
 
 #portfolio{
     background: #222;
-    background: url(./images/dogsidebside.jpeg) 50% 0 no-repeat scroll;
+    background-image: url(./images/dogsidebside.jpeg) 50% 0 no-repeat scroll;
     -webkit-background-size: cover;
        -moz-background-size: cover;
             background-size: cover;
@@ -1347,7 +1347,7 @@ ul.project-meta{
   background-color: #84c9f7; /* Primary color, can be changed via colors.css */
   background-repeat: no-repeat;
   background-size: 32px 64px;
-  background-image: url("./images/cd-icon-controller.svg");
+  background-image: url("./images/dogpool.gif");
 }
 .no-touch #cd-zoom-in:hover, .no-touch #cd-zoom-out:hover {
   background-color: #d36868;
@@ -1369,7 +1369,7 @@ ul.project-meta{
 
 .counter-section {
     text-align: center;
-    background: url(./images/dogs-playing-poker.jpeg) 50% 0 no-repeat scroll;
+    background-image: url("./images/dogs-playing-poker.jpeg") 50% 0 no-repeat scroll;
     -webkit-background-size: cover;
        -moz-background-size: cover;
             background-size: cover;
@@ -1842,7 +1842,7 @@ footer .social a{
     }
 
     .video-section{
-        background: url(./https://youtube.com/shorts/xh6ixDORDdY?feature=share) no-repeat bottom center scroll;
+        background-image: url("./https://youtube.com/shorts/xh6ixDORDdY?feature=share") no-repeat bottom center scroll;
     }
 
 
