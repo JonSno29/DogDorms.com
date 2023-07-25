@@ -247,8 +247,8 @@ $(function () {
   var is_internetExplorer11 =
     navigator.userAgent.toLowerCase().indexOf("trident") > -1;
   var marker_url = is_internetExplorer11
-    ? "./assets/images/cd-icon-location.png"
-    : "./assets/images/cd-icon-location.svg";
+    ? "./images/cd-icon-location.png"
+    : "./images/cd-icon-location.svg";
 
   //define the basic color of your map, plus a value for saturation and brightness
   var main_color = "#2d313f",
