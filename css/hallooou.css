@@ -217,7 +217,7 @@ a:focus {
 }
 
 .content-section.alt-bg-light {
-  background-color: #fafafa;
+  background-color: #c6e9f6;
   border-top: 1px solid #f5f5f5;
   border-bottom: 1px solid #d2d2d2;
 }
@@ -576,7 +576,7 @@ blockquote span {
 }
 
 #parallax-slide {
-  background: url(./images/dogpool.gif) 50% 0 no-repeat;
+  background: url(../images/dogpool.gif) 50% 0 no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -1017,7 +1017,7 @@ video {
   margin: 5px;
 }
 .recent-project img {
-  width: 100%;
+ width: 100%;
 }
 .project-info {
   position: absolute;
@@ -1832,7 +1832,7 @@ footer .social a {
     }
 
     .video-section {
-      background: url(../https://youtube.com/shorts/xh6ixDORDdY?feature=share)
+      background: url("https://youtube.com/shorts/xh6ixDORDdY?feature=share")
         no-repeat bottom center scroll;
     }
 
@@ -1869,7 +1869,7 @@ footer .social a {
         background: url(../images/youtube-video-cover.jpg) #000 no-repeat center center fixed;
     }*/
     .html5-video-container {
-      background: url(./images/dozendogs.jpeg) no-repeat bottom center scroll;
+      background: url(../images/dozendogs.jpeg) no-repeat bottom center scroll;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       background-size: cover;
