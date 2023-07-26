@@ -852,7 +852,7 @@ video {
 .products {
   width: 100%;
   background: #222;
-  background-image: url(./images/dogjumping.webp) 50% 0 no-repeat scroll;
+  background: url(../images/dogjumping.webp) 50% 0 no-repeat scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
