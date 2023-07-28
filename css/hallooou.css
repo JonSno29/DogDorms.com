@@ -1183,12 +1183,7 @@ ul.project-meta {
 /* ---------------------------------------------- */
 
 .our-clients {
-  background-color: rgba(
-    9,
-    113,
-    178,
-    1
-  ); /* Primary color, can be changed via colors.css */
+  background-color: rgb(173, 219, 247); /* Primary color, can be changed via colors.css */
 }
 
 .our-clients h2 {
@@ -1937,7 +1932,7 @@ footer .social a {
   }
 
   body {
-    webkit-tap-highlight-color: #84c9f7;
+    color: #84c9f7;
   }
 
   /* Debug styles (remove before exporting for production)
